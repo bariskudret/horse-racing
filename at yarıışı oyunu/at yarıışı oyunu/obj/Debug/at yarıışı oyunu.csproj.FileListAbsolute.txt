@@ -1,0 +1,11 @@
+C:\Users\onurk\Desktop\c# form uygulma\at yarıışı oyunu\at yarıışı oyunu\bin\Debug\at yarıışı oyunu.exe.config
+C:\Users\onurk\Desktop\c# form uygulma\at yarıışı oyunu\at yarıışı oyunu\bin\Debug\at yarıışı oyunu.exe
+C:\Users\onurk\Desktop\c# form uygulma\at yarıışı oyunu\at yarıışı oyunu\bin\Debug\at yarıışı oyunu.pdb
+C:\Users\onurk\Desktop\c# form uygulma\at yarıışı oyunu\at yarıışı oyunu\obj\Debug\at yarıışı oyunu.csproj.AssemblyReference.cache
+C:\Users\onurk\Desktop\c# form uygulma\at yarıışı oyunu\at yarıışı oyunu\obj\Debug\at yarıışı oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\onurk\Desktop\c# form uygulma\at yarıışı oyunu\at yarıışı oyunu\obj\Debug\at_yarıışı_oyunu.Form1.resources
+C:\Users\onurk\Desktop\c# form uygulma\at yarıışı oyunu\at yarıışı oyunu\obj\Debug\at_yarıışı_oyunu.Properties.Resources.resources
+C:\Users\onurk\Desktop\c# form uygulma\at yarıışı oyunu\at yarıışı oyunu\obj\Debug\at yarıışı oyunu.csproj.GenerateResource.cache
+C:\Users\onurk\Desktop\c# form uygulma\at yarıışı oyunu\at yarıışı oyunu\obj\Debug\at yarıışı oyunu.csproj.CoreCompileInputs.cache
+C:\Users\onurk\Desktop\c# form uygulma\at yarıışı oyunu\at yarıışı oyunu\obj\Debug\at yarıışı oyunu.exe
+C:\Users\onurk\Desktop\c# form uygulma\at yarıışı oyunu\at yarıışı oyunu\obj\Debug\at yarıışı oyunu.pdb
